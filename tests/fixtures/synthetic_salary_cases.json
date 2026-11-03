@@ -1,0 +1,20 @@
+[
+  {
+    "salary_min": 10000,
+    "salary_max": 14000,
+    "bonus": "",
+    "expected_annual_wage": 144000
+  },
+  {
+    "salary_min": 10000,
+    "salary_max": 14000,
+    "bonus": "13薪",
+    "expected_annual_wage": 156000
+  },
+  {
+    "salary_min": null,
+    "salary_max": 14000,
+    "bonus": "13薪",
+    "expected_annual_wage": null
+  }
+]

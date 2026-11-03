@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "AI Hiring Self-Description Toolkit"
+type: software
+authors:
+  - family-names: Wang
+    given-names: Ziyu
+repository-code: "https://github.com/ZiyuWang13/AI-Hiring-Self-Description-Toolkit"
+license: MIT
+version: 0.1.0
+date-released: 2026-11-03

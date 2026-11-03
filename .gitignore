@@ -1,0 +1,46 @@
+# Environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials/
+secrets/
+config/*.local.*
+
+# Data deny-by-default
+data/
+private/
+restricted/
+local/
+raw/
+logs/
+artifacts/
+results/
+**/*raw_response*
+**/*raw_request*
+**/*batch_result*
+**/*pool_metadata*
+**/Stage2_job_pools/
+
+# Generated demo output is the only intentionally public output
+examples/output/*
+!examples/output/.gitkeep
+!examples/output/synthetic_inference.csv
+
+# Editors and operating systems
+.DS_Store
+.Rhistory
+*.code-workspace
+*.swp
+~$*

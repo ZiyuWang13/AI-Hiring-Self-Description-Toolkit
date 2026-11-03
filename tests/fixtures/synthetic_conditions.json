@@ -1,0 +1,18 @@
+{
+  "00": {
+    "treatment_in_stage1": false,
+    "structured_resume_in_stage2": false
+  },
+  "01": {
+    "treatment_in_stage1": false,
+    "structured_resume_in_stage2": true
+  },
+  "10": {
+    "treatment_in_stage1": true,
+    "structured_resume_in_stage2": false
+  },
+  "11": {
+    "treatment_in_stage1": true,
+    "structured_resume_in_stage2": true
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "source_category": "001",
+    "profile": "MB",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  },
+  {
+    "source_category": "001",
+    "profile": "MH",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  },
+  {
+    "source_category": "001",
+    "profile": "MT",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  },
+  {
+    "source_category": "001",
+    "profile": "FB",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  },
+  {
+    "source_category": "001",
+    "profile": "FH",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  },
+  {
+    "source_category": "001",
+    "profile": "FT",
+    "occupation_ids": [
+      "O001",
+      "O002",
+      "O003",
+      "O004",
+      "O005",
+      "O006"
+    ]
+  }
+]

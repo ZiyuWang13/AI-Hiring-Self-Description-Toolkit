@@ -1,0 +1,6 @@
+{
+  "format_version": 1,
+  "real_data_access_enabled": false,
+  "approved_inputs": [],
+  "notes": "The public toolkit defaults to an empty allowlist and never auto-discovers inputs."
+}

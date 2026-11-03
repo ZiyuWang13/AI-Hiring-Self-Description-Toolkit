@@ -1,0 +1,410 @@
+[
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "MB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "MH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "MT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "FB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "FH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "00",
+    "profile": "FT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "MB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "MH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "MT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "FB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "FH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "01",
+    "profile": "FT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "MB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "MH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "MT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "FB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "FH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "10",
+    "profile": "FT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "MB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "MH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "MT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "FB",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "FH",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  },
+  {
+    "source_category": "001",
+    "condition": "11",
+    "profile": "FT",
+    "stage2_job_ids": [
+      "J01",
+      "J02",
+      "J03",
+      "J04",
+      "J05",
+      "J06",
+      "J07",
+      "J08",
+      "J09",
+      "J10"
+    ]
+  }
+]

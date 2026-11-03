@@ -1,0 +1,32 @@
+[
+  {
+    "profile": "MB",
+    "gender": "Male",
+    "self_description_condition": "Baseline"
+  },
+  {
+    "profile": "MH",
+    "gender": "Male",
+    "self_description_condition": "Hardworking"
+  },
+  {
+    "profile": "MT",
+    "gender": "Male",
+    "self_description_condition": "Talented"
+  },
+  {
+    "profile": "FB",
+    "gender": "Female",
+    "self_description_condition": "Baseline"
+  },
+  {
+    "profile": "FH",
+    "gender": "Female",
+    "self_description_condition": "Hardworking"
+  },
+  {
+    "profile": "FT",
+    "gender": "Female",
+    "self_description_condition": "Talented"
+  }
+]
